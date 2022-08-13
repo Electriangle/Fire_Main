@@ -1,3 +1,6 @@
+See YouTube video here: https://www.youtube.com/watch?v=T7LOWIrUKwY
+
+
 How to retreive and upload source code to Arduino:  
 Step 1) Download zip folder of code.  
 Step 2) Extract folder to desired file location.  
